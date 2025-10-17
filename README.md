@@ -1,7 +1,7 @@
 # wallpaper_changer
 A code written in *C* that changes wallpaper depending on time
 # Requirements
-G++,feh
+i3wn, feh, G++
 # Install
 Wallpaper_changer should be easy to run in terminal using ***g++ main.c -o wallpaper_changer***.If the code doesn't run make sure yo have feh installed.
 # How to use
