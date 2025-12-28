@@ -1,7 +1,7 @@
 flaigs=-Wall 
 ldflags=
 
-all: wallpaper_changer
+all:changer
 
-wallpaper_changer: main.c
+changer: main.c
 	cc ${flags} $^ -o $@ ${ldflags}
